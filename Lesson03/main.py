@@ -79,4 +79,9 @@ print(">>", not 3) #output: False
 print(">>>", not "0") #output: False
 
 # 4. Biểu thức logic 
+x, y, z = 10, 6, 8
+a = x < 12 and z > 6 # True
+b = x > 15 or y < 8 # True
+c = not b # False
 
+# link bài practice: https://docs.google.com/forms/d/e/1FAIpQLSeyrSScLkJT8PnHje0BeGVDlVWRi_5pyEN-kSatTHzs4M5ZfA/viewform
