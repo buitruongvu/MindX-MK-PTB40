@@ -16,7 +16,7 @@ print("2 x 7 =", 2*7)
 print("2 x 8 =", 2*8)
 print("2 x 9 =", 2*9)
 print("2 x 10 =", 2*10)
-# Quy tắc đặt tên biến (variabal)
+# Quy tắc đặt tên biến (variable)
 # Rule 1: Tên biến phải bao gồm chữ in hoa (A -> Z), chữ in thường (a -> z), chữ số (0 -> 9), và dấu underscore (_)
 # VD: không phải tên biến: *abc, a%2, ... 
 # VD: là tên biến: abc, _xy, ab9, ...  
