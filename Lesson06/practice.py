@@ -13,5 +13,5 @@ if prime:
   print(n, "là số nguyên tố")
 else:
   print(n, "không là số nguyên tố")
-print("a") if prime else print("b")
+# print("a") if prime else print("b")
   
